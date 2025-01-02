@@ -1,5 +1,11 @@
 # React Native Calendar Mobile
 
+<div style="display: flex; justify-content: space-between; margin-right: 6px; margin-top: 20px;">
+  <img src="./assets/image1.png" alt="iPhone Home Preview" style="width: 270px; height: 550px;">
+  <img src="./assets/image2.png" alt="iPhone Splash Preview (Dark)" style="width: 270px; height: 550px;">
+  <img src="./assets/image3.png" alt="iPhone Splash Preview (Dark)" style="width: 270px; height: 550px;">
+</div>
+
 # Expo App Setup
 
 ## Clonando o Repositório

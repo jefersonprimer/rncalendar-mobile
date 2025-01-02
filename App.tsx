@@ -1,7 +1,5 @@
-import { Home } from './src/app/home';
+import { Home } from "./src/app/home"
 
 export default function App() {
-  return (
-    <Home/>
-  );
+  return <Home />
 }
